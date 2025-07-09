@@ -13,12 +13,4 @@ I have a strong background in R&D, process development, and production, so I kno
 
 <h2 align="left">Technologies I Use</h2>
 
-| **Programming & Libraries** | **Tools & Platforms** | **Visualization & BI** | **Databases & APIs** |
-|:---------------------------:|:---------------------:|:----------------------:|:--------------------:|
-| Python                      | Docker                | Tableau                | MySQL                |
-| SQL                         | VS Code               | Power BI               | SQLite               |
-| Pandas                      | RPA                   | Google Looker Studio   | OpenAI API           |
-| NumPy                       | SAP                   | Microsoft Excel        | LLAMA3               |
-| Scikit-learn                | AWS                   | Matplotlib             |                      |
-| TensorFlow                  | RAG                   | Seaborn                |                      |
-| Keras                       |                       | Plotly                 |                      |
+![image](https://github.com/user-attachments/assets/4b33bffc-9c10-49f1-bbd7-f85fef6f46b2)
