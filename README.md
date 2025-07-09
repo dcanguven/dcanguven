@@ -13,4 +13,5 @@ I have a strong background in R&D, process development, and production, so I kno
 
 <h2 align="left">Technologies I Use</h2>
 
-![image](https://github.com/user-attachments/assets/57fa513e-4d26-4b9b-a312-6a01125f4a17)
+![image](https://github.com/user-attachments/assets/643158d9-d8f1-4f9e-a128-aa68b5d4444a)
+
