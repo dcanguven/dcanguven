@@ -13,29 +13,12 @@ I have a strong background in R&D, process development, and production, so I kno
 
 <h2 align="left">Technologies I Use</h2>
 
-| **Programming & Libraries** | **Databases & APIs** | **Tools & Platforms** | **Visualization & BI** |
-|-----------------------------|----------------------|-----------------------|------------------------|
-| Python                      | MySQL                | Git                   | Tableau                |
-| SQL                         | SQLite               | Docker                | Power BI               |
-| Pandas                      | OpenAI API           | Jupyter               | Google Looker Studio   |
-| NumPy                       | LLAMA3               | VS Code               | Microsoft Excel        |
-| Scikit-learn                |                      | RPA                   | Matplotlib             |
-| TensorFlow                  |                      | SAP                   | Seaborn                |
-| Keras                       |                      | AWS                   | Plotly                 |
-|                             |                      | GCP                   | Altair                 |
-|                             |                      | RAG                   |                        |
-
-<h2 align="left">Expertise</h2>
-
-- Data Analysis  
-- Predictive Modeling  
-- Machine Learning  
-- Business Intelligence  
-- Feature Engineering  
-- Time Series  
-- A/B Testing  
-- Process Automation  
-- Statistical Analysis  
-- Forecasting Models  
-- Critical Thinking  
-- Communication Skills  
+| **Programming & Libraries** | **Tools & Platforms** | **Visualization & BI** | **Databases & APIs** |
+|:---------------------------:|:---------------------:|:----------------------:|:--------------------:|
+| Python                      | Docker                | Tableau                | MySQL                |
+| SQL                         | VS Code               | Power BI               | SQLite               |
+| Pandas                      | RPA                   | Google Looker Studio   | OpenAI API           |
+| NumPy                       | SAP                   | Microsoft Excel        | LLAMA3               |
+| Scikit-learn                | AWS                   | Matplotlib             |                      |
+| TensorFlow                  | RAG                   | Seaborn                |                      |
+| Keras                       |                       | Plotly                 |                      |
