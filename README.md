@@ -35,6 +35,4 @@ My background is in R&D, process development and production. This helps me ident
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" title="AWS">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cloudflare.png" width="48" height="48" alt="Cloudflare" title="Cloudflare">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" height="48" alt="Git" title="Git">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="48" height="48" alt="VS Code" title="VS Code">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" width="48" height="48" alt="macOS" title="macOS">
 </p>
